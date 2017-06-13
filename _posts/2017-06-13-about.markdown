@@ -6,8 +6,6 @@ author:     "Wunmin Wong"
 header-img: "img/post-bg-02.jpg"
 ---
 
-<p>Hello, I'm a recent MBA graduate from The Wharton School and obtained my bachelor's degree from MIT.</p>
-
-<p>In the summer of 2016, I interned at Amazon as a product manager in the Alexa Smart Home team. I also previously worked as product manager at SEEK Asia (known as JobStreet before it was acquired) and a consultant with The Boston Consulting Group.</p>
+<p>Hello, I'm a recent MBA graduate from The Wharton School and obtained my bachelor's degree from MIT. In the summer of 2016, I interned at Amazon as a product manager in the Alexa Smart Home team. I also previously worked as product manager at SEEK Asia (known as JobStreet before it was acquired) and a consultant with The Boston Consulting Group.</p>
 
 <p>I love hiking, having done so in Antarctica, Patagonia, Nepal and a couple of other interesting places. I also love dogs (golden retriever and goldendoodle) as well as good food. Ping me up if you want to talk about product management, hiking, dogs, food or just life in general.</p>
