@@ -1,0 +1,25 @@
+# Site settings
+title: Wunmin Wong
+header-img: img/home-bg5.jpg
+email: wunmin@gmail.com
+copyright_name: Wunmin
+description: "Hello!"
+baseurl: ""
+url: "http://wunmin.com"
+twitter_username: ubikentang
+github_username:  wunmin
+facebook_username:  wunmin
+email_username:  wunmin@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
